@@ -1,4 +1,4 @@
-## ✨ Hi there, I'm Mouad Lasri 👋
+<!-- # ✨ Hi there, I'm Mouad Lasri 👋 -->
 
 <!--
 **mouadlasri/mouadlasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  Hi there, I'm <a href="https://martinkondor.github.io" title="My website">Mouad Lasri</a>! 👋
+</h1>
 
-My name is Mouad Lasri and I'm a Software Engineering and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul.
+'m a Software Engineering and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul.
 - 🔭 I’m currently working in Data Science industry
 - 🌱 I’m currently learning Typescript
 - 💬 I’m looking to collaborate on Web Development and Data Analysis projects
