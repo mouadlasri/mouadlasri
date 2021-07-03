@@ -21,7 +21,7 @@ My name is Mouad Lasri and I'm a Software Engineering and Data Science Enthusias
 My portfolio and data science related articles are available on my website at <a href="https://mouadlasri.com/">mouadlasri.com</a>
 
 
-## &#x270d; Tech Stack
+## 🔧  Tech Stack
 
 Technologies that I've been learning and I've picked up along my programming journey.
 
