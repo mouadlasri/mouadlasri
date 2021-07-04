@@ -58,7 +58,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 
 ## &#x1f4c8; Stats
 <a href="https://github.com/appleboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadlasri&show_icons=true&theme=dark&count_private=true" alt="Mouad Lasri github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadlasri&theme=dark&layout=compact" alt="MOuad Lasri's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadlasri&show_icons=true&theme=dark&count_private=true" alt="Mouad Lasri github stats" />
 </a>
 <br/>
