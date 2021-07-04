@@ -71,11 +71,8 @@ Technologies that I've been learning and I've picked up along my programming jou
 - Matplotlib
 
 ## &#x1f4c8; Stats
-
-<a href="https://github.com/mouadlasri/mouadlasri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadlasri&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/appleboy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadlasri&show_icons=true&theme=dark&count_private=true" alt="Mouad Lasri github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadlasri&theme=dark&layout=compact" alt="MOuad Lasri's github top languages" />
 </a>
-<a href="https://github.com/mouadlasri/mouadlasri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouadlasri&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mouad's GitHub Stats" />
-</a>
-
+<br/>
