@@ -22,7 +22,7 @@ I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' De
 - 🔭 I’m currently working in Data Science industry
 - 🌱 I’m currently learning Typescript
 - 💬 I’m looking to collaborate on Web Development and Data Analysis projects
-- ⚡ In my free time, I like to explore new technologies and uses my skils to solve problems around me
+- ⚡ In my free time, I like to explore new technologies and uses my skills to solve problems around me
 
 
 ## &#x270d; Website & Writing
