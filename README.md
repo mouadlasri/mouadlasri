@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  Hi there, I'm <a href="https://martinkondor.github.io" title="My website">Mouad Lasri</a>! 👋
+  Hi there, I'm <a href="https://mouadlasri.com/" title="My website">Mouad Lasri</a>! 👋
 </h1>
 
 I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul.
