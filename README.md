@@ -17,7 +17,7 @@ My portfolio and data science related articles are available on my website at <a
 
 ## 🔧  Tech Stack
 
-Technologies that I've been learning and I've picked up along my programming journey.
+Technologies that I've picked up along my programming journey and used.
 
 ### Front-end
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white)
@@ -26,6 +26,7 @@ Technologies that I've been learning and I've picked up along my programming jou
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
 
 ### Back-end
+![](https://img.shields.io/badge/Code-Djano-informational?style=flat&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=node.j&logoColor=white)
 ![](https://img.shields.io/badge/Code-ASPNetCore-informational?style=flat&logo=.net&logoColor=white)
