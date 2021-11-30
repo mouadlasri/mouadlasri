@@ -26,7 +26,7 @@ Technologies that I've picked up along my programming journey and used.
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
 
 ### Back-end
-![](https://img.shields.io/badge/Code-Djano-informational?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=node.j&logoColor=white)
 ![](https://img.shields.io/badge/Code-ASPNetCore-informational?style=flat&logo=.net&logoColor=white)
