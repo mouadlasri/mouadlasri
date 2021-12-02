@@ -2,10 +2,9 @@
 
 <h1 align="center">
   Hi there, I'm <a href="https://mouadlasri.com/" title="My website">Mouad Lasri</a>! 👋
-  I'm in the MLV (Machine Learning and Vision) research lab
 </h1>
 
-I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul.
+I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul. I'm in the MLV (Machine Learning and Vision) research lab.
 - 🔭 I’m a Microsoft Student Ambassador in Korea
 - 🌱 I’m currently interested in Machine Learning / Computer Vision
 - 💬 I’m looking to collaborate on Data Analysis and Web Development projects 
