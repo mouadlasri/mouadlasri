@@ -2,6 +2,7 @@
 
 <h1 align="center">
   Hi there, I'm <a href="https://mouadlasri.com/" title="My website">Mouad Lasri</a>! 👋
+  I'm in the MLV (Machine Learning and Vision) research lab
 </h1>
 
 I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul.
