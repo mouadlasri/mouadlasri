@@ -6,9 +6,9 @@
 
 I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul. I'm in the MLV (Machine Learning and Vision) research lab.
 - 🔭 I’m a Microsoft Student Ambassador in Korea
-- :computer: I’m currently interested in Machine Learning / Computer Vision
+- :computer: I’m currently doing research in Machine Learning and Computer Vision
 - 💬 I’m looking to collaborate on Data Analysis and Web Development projects 
-- ⚡ In my free time, I like to explore new technologies and uses my skills to solve problems around me
+- ⚡ In my free time, I like to explore new technologies and use my skills to solve problems around me
 
 
 ## &#x270d; Website & Writing
