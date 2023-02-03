@@ -17,7 +17,7 @@ My portfolio and data science related articles are available on my website at <a
 
 ## 🔧  Tech Stack
 
-Technologies that I've picked up along my programming journey and used.
+Technologies that I've picked up along my programming journey:
 
 ### Front-end
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white)
