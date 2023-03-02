@@ -1,11 +1,11 @@
 <!-- # ✨ Hi there, I'm Mouad Lasri 👋 -->
 
 <h1 align="center">
-  Hi there, I'm <a href="https://mouadlasri.com/" title="My website" target="_blank">Mouad Lasri</a>! 👋
+  Hi there, I'm <a href="https://mouadlasri.com/" title="My website" target="_blank" rel="noopener noreferrer">Mouad Lasri</a>! 👋
 </h1>
 
 I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul. I'm in the MLV (Machine Learning and Vision) research lab.
-My professional experience can be found on my <a href="https://www.linkedin.com/in/mouad-lasri/" target="_blank">Linkedin</a>
+My professional experience can be found on my <a href="https://www.linkedin.com/in/mouad-lasri/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 - 🔭 I’m a Microsoft Student Ambassador in Korea
 - :computer: I’m currently doing research in Machine Learning and Computer Vision
 - 💬 I’m looking to collaborate on Data Analysis and Web Development projects 
