@@ -6,10 +6,11 @@
 
 <p>I'm a Software Engineer and Data Science Enthusiast. I'm pursuing my Masters' Degree in Software Engineering at Korea University, Seoul. I'm in the MLV (Machine Learning and Vision) research lab.</p>
 <p>My professional experience can be found on my <a  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mouad-lasri/">Linkedin</a></p>
-- 🔭 I’m a Microsoft Student Ambassador in Korea
-- :computer: I’m currently doing research in Machine Learning and Computer Vision
-- 💬 I’m looking to collaborate on Data Analysis and Web Development projects 
-- ⚡ In my free time, I like to explore new technologies and use my skills to solve problems around me
+
+<p>- 🔭 I’m a Microsoft Student Ambassador in Korea</p>
+<p>- :computer: I’m currently doing research in Machine Learning and Computer Vision </p>
+<p>- 💬 I’m looking to collaborate on Data Analysis and Web Development projects </p>
+<p>- ⚡ In my free time, I like to explore new technologies and use my skills to solve problems around me</p>
 
 
 ## &#x270d; Website & Writing
