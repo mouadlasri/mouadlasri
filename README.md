@@ -22,15 +22,17 @@ My portfolio and data science related articles are available on my website at <a
 Technologies that I've picked up along my programming journey:
 
 ### Front-end
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
+
 
 ### Back-end
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=node.j&logoColor=white)
+![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-ASPNetCore-informational?style=flat&logo=.net&logoColor=white)
 
 
