@@ -108,15 +108,15 @@ Technologies that I've picked up along my programming journey:
       <br>Python
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="java" />
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/pandas-dark.svg" width="48" height="48" alt="java" />
       <br>Pandas
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="java" />
+        <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/numpy-dark.svg" width="48" height="48" alt="numpy" />
       <br>Numpy
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="css" />
+        <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/matplotlib-dark.svg" width="48" height="48" alt="matplotlib" />
       <br>Matplotlib
     </td>
   </tr>
