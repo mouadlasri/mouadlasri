@@ -41,13 +41,13 @@ Technologies that I've picked up along my programming journey:
 ### Databases
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=Amazon-DynamoDB)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure)
+![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=azure)
 
 ### Data Analysis
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy)
-![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Matplotlib)
+![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Python)
 
 ## &#x1f4c8; Stats
 <a href="https://github.com/mouadlasri">
