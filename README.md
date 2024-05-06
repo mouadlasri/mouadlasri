@@ -24,35 +24,103 @@ Technologies that I've picked up along my programming journey:
 ### Front-end
 <table>
   <tr>
-    <td align="center" width="96>
-      <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="docker" />
-      <br>gradle
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
+      <br>Html
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="48" height="48" />
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="48" />
+      <br>React
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="48" height="48" />
+      <br>Tailwind
     </td>
   </tr>
 </table>
 
-
-
 ### Back-end
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Sql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-</p>
+<table>
+  <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+      <br>Java
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="java" />
+      <br>Spring
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="java" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="css" />
+      <br>Nodejs
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="48" height="48" />
+      <br>.Net
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
+      <br>SQL
+    </td>
+  </tr>
+</table>
 
-
-### Databases
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=Amazon-DynamoDB)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure)
+### Databases & Cloud
+<table>
+  <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="java" />
+      <br>MongoDB
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="java" />
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="java" />
+      <br>Azure
+    </td>
+  </tr>
+</table>
 
 ### Data Analysis
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas)
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy)
-![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Python)
+
+<table>
+  <tr>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="java" />
+      <br>Python
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="java" />
+      <br>Pandas
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="java" />
+      <br>Numpy
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="css" />
+      <br>Matplotlib
+    </td>
+  </tr>
+</table>
 
 ## &#x1f4c8; Stats
 <a href="https://github.com/mouadlasri">
