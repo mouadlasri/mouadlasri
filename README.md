@@ -33,8 +33,8 @@ Technologies that I've picked up along my programming journey:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js)
-![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=node.js)
+![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodedotjs)
+![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=nodedotjs)
 ![](https://img.shields.io/badge/Code-ASPNetCore-informational?style=flat&logo=.net)
 
 
