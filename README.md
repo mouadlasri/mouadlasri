@@ -22,26 +22,31 @@ My portfolio and data science related articles are available on my website at <a
 Technologies that I've picked up along my programming journey:
 
 ### Front-end
-![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react)
+<table>
+  <tr>
+    <td align="center" width="96>
+      <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="docker" />
+      <br>gradle
+    </td>
+  </tr>
+</table>
+
 
 
 ### Back-end
-![](https://img.shields.io/badge/Code-Java-informational?logo=java)
-![](https://img.shields.io/badge/Code-Spring-informational?logo=spring)
-![](https://img.shields.io/badge/Code-Django-informational?logo=django)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodedotjs)
-![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=nodedotjs)
-![](https://img.shields.io/badge/Code-ASPNetCore-informational?style=flat&logo=.net)
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Sql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+</p>
 
 
 ### Databases
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=Amazon-DynamoDB)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=azure)
+![](https://img.shields.io/badge/Cloud-MicrosoftAzure-informational?style=flat&logo=microsoft-azure)
 
 ### Data Analysis
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python)
