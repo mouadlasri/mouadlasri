@@ -22,11 +22,11 @@ My portfolio and data science related articles are available on my website at <a
 Technologies that I've picked up along my programming journey:
 
 ### Front-end
-![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react)
 
 
 ### Back-end
