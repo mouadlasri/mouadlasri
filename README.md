@@ -23,9 +23,10 @@ My portfolio and data science related articles are available on my website at <a
 Technologies that I've picked up along my programming journey:
 
 ### Front-end
+
 <table>
   <tr>
-   <td align="center" width="96">
+   <td align="center" width="96" border="1px solid red">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
       <br>Html
     </td>
