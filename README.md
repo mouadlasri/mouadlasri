@@ -30,9 +30,9 @@ Technologies that I've picked up along my programming journey:
 
 
 ### Back-end
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-ASPNetCore-informational?style=flat&logo=.net&logoColor=white)
