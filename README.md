@@ -8,7 +8,7 @@
 <p>I'm a Software Engineer and Data Science Enthusiast. I hold a  Masters' Degree in Computer Science from Korea University 고려대학교, Seoul. I was in the MLV (Machine Learning and Vision) research lab, and a Microsoft Student Ambassador (2nd highest rank) in Korea.</p>
 <p>My professional experience can be found on my <a  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mouad-lasri/">Linkedin</a></p>
 <p>- :computer: Interested in Back-end Development and Machine Learning projects </p>
-<p>- ⚡ In my free time, I enjoy working on personal projects, and reading self-development and philosophy books.</p>
+<p>- ⚡ In my free time, I enjoy working on my personal projects, and reading self-development and philosophy books.</p>
 
 
 ## &#x270d; Website & Writing
