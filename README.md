@@ -5,13 +5,10 @@
   Hi there, I'm <a  target="_blank" rel="noopener noreferrer" href="https://mouadlasri.com/" title="My website">Mouad Lasri</a>! 👋
 </h1>
 
-<p>I'm a Software Engineer and Data Science Enthusiast. I hold a  Masters' Degree in Computer Science from Korea University 고려대학교, Seoul. I was in the MLV (Machine Learning and Vision) research lab.</p>
+<p>I'm a Software Engineer and Data Science Enthusiast. I hold a  Masters' Degree in Computer Science from Korea University 고려대학교, Seoul. I was in the MLV (Machine Learning and Vision) research lab, and a Microsoft Student Ambassador (2nd highest rank) in Korea.</p>
 <p>My professional experience can be found on my <a  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mouad-lasri/">Linkedin</a></p>
-
-<p>- 🔭 I’m a Microsoft Student Ambassador in Korea</p>
-<p>- :computer: I’m currently doing research in Machine Learning and Computer Vision </p>
-<p>- 💬 I’m looking to collaborate on Data Analysis and Web Development projects </p>
-<p>- ⚡ In my free time, I like to explore new technologies and use my skills to solve problems around me</p>
+<p>- :computer: Interested in Back-end Development and Machine Learning projects </p>
+<p>- ⚡ In my free time, I enjoy working on personal projects, and reading self-development and philosophy books.</p>
 
 
 ## &#x270d; Website & Writing
