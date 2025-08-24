@@ -80,8 +80,8 @@ Technologies that I've picked up along my programming journey:
       <br>MongoDB
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="java" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="java" />
+      <br>PostgreSQL
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="java" />
