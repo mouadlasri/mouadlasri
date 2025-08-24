@@ -12,7 +12,7 @@
 
 
 ## &#x270d; Website & Writing
-My portfolio and data science related articles are available on my website at <a href="https://mouadlasri.com/">mouadlasri.com</a>
+My portfolio and data science related articles are available on my website at <a href="https://lasrimouad.com/">mouadlasri.com</a>
 
 
 ## 🔧  Tech Stack
