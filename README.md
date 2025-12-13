@@ -19,32 +19,6 @@ My portfolio and data science related articles are available on my website at <a
 
 Technologies that I've picked up along my programming journey:
 
-### Front-end
-
-<table>
-  <tr>
-   <td align="center" width="96" border="1px solid red">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
-      <br>Html
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="48" height="48" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="48" height="48" />
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="48" />
-      <br>React
-    </td>
-  </tr>
-</table>
 
 ### Back-end
 <table>
@@ -90,7 +64,7 @@ Technologies that I've picked up along my programming journey:
   </tr>
 </table>
 
-### Data Analysis
+### Machine Learning & Data Analysis
 
 <table>
   <tr>
