@@ -1,5 +1,5 @@
 
-<!-- # ✨ Hi there, I'm Mouad Lasri 👋 -->
+<!-- # Hi there, I'm Mouad Lasri 👋 -->
 
 <h1 align="center">
   Hi there, I'm <a  target="_blank" rel="noopener noreferrer" href="https://mouadlasri.com/" title="My website">Mouad Lasri</a>! 👋
@@ -7,15 +7,15 @@
 
 <p>I'm a Software Engineer and Data Science Enthusiast. I hold a  Masters' Degree in Computer Science from Korea University 고려대학교, Seoul. I was in the MLV (Machine Learning and Vision) research lab, and a Microsoft Student Ambassador (2nd highest rank) in Korea.</p>
 <p>My professional experience can be found on my <a  target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/mouad-lasri/">Linkedin</a></p>
-<p>- :computer: Interested in Back-end Development and Machine Learning projects </p>
-<p>- ⚡ In my free time, I enjoy working on my personal projects, and reading self-development and philosophy books.</p>
+<p>- Interested in Back-end Development and Machine Learning projects </p>
+<p>- In my free time, I enjoy working on my personal projects, and reading self-development and philosophy books.</p>
 
 
-## &#x270d; Website & Writing
-My portfolio and data science related articles are available on my website at <a href="https://lasrimouad.com/">lasrimouad.com</a>
+## Website & Writing
+My portfolio and data science related articles are available on my website at <a href="https://mouadlasri.com/">mouadlasri.com</a>
 
 
-## 🔧  Tech Stack
+## Tech Stack
 
 Technologies that I've picked up along my programming journey:
 
@@ -87,7 +87,7 @@ Technologies that I've picked up along my programming journey:
   </tr>
 </table>
 
-## &#x1f4c8; Stats
+## Stats
 <a href="https://github.com/mouadlasri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadlasri&theme=dark&layout=compact" alt="Mouad Lasri's github top languages" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadlasri&show_icons=true&theme=dark&count_private=true" alt="Mouad Lasri github stats" />
