@@ -89,7 +89,7 @@ Technologies that I've picked up along my programming journey:
 
 ## Stats
 <a href="https://github.com/mouadlasri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadlasri&theme=dark&layout=compact" alt="Mouad Lasri's github top languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadlasri&show_icons=true&theme=dark&count_private=true" alt="Mouad Lasri github stats" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadlasri&theme=dark&layout=compact" alt="Mouad Lasri's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mouadlasri&show_icons=true&theme=dark&count_private=true" alt="Mouad Lasri github stats" /> -->
 </a>
 <br/>
