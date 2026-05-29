@@ -28,19 +28,19 @@ Technologies that I've picked up along my programming journey:
       <br>Java
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="java" />
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="spring" />
       <br>Spring
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="java" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
+      <br>FastAPI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="48" height="48" />
       <br>SQL
     </td>
   </tr>
