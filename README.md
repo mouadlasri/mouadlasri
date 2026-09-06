@@ -43,7 +43,6 @@ Technologies that I've picked up along my programming journey:
         <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="48" height="48" />
       <br>SQL
     </td>
-    
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="java" />
       <br>Docker
@@ -62,7 +61,6 @@ Technologies that I've picked up along my programming journey:
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="java" />
       <br>MongoDB
     </td>
-    
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=GCP" width="48" height="48" alt="java" />
       <br>GCP
