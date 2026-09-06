@@ -62,7 +62,7 @@ Technologies that I've picked up along my programming journey:
       <br>MongoDB
     </td>
      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=GCP" width="48" height="48" alt="java" />
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="java" />
       <br>GCP
     </td>
      <td align="center" width="96">
