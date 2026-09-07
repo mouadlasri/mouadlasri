@@ -82,7 +82,7 @@ Technologies that I've picked up along my programming journey:
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="java" />
-      <br>Pytorch
+      <br>PyTorch
     </td>
      <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/pandas-dark.svg" width="48" height="48" alt="java" />
